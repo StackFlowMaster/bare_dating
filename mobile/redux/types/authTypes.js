@@ -1,0 +1,5 @@
+export const PROFILE_LOADING = "PROFILE_LOADING";
+export const SET_AUTH_ERRORS = "SET_AUTH_ERRORS";
+export const AUTHENTICATED = "AUTHENTICATED";
+export const CLEAR_AUTH_ERRORS = "CLEAR_AUTH_ERRORS";
+export const LOGOUT = "LOGOUT";
