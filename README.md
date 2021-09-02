@@ -5,10 +5,11 @@ PHP+Mysql Backend
 # Feature
 This is practical test for BARE Dating Projects
 TO-DO list web application(front-end and back-end)
-User Signup
-User Login
-Add Todo Item
-List Todo Items
+
+  * User Signup √
+  * User Login √
+  * Add Todo Item √
+  * List Todo Items √
 
 # Skill
 React Native, Expo, Redux, iOS, Android, PHP, Mysql,
